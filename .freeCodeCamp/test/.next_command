@@ -223,3 +223,12 @@ psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+git init
+git remote add origin https://github.com/tborntb-e1/bike_rental_shop_db.git
+git remote set-url origin git remote add origin https://github.com/tborntb-e1/bike_rental_shop_db.git
+git remote remove origin
+git remote set-url origin https://github.com/tborntb-e1/bike_rental_shop_db.git
+git remote add origin https://github.com/tborntb-e1/bike_rental_shop_db.git
+git remote -v
+git push -u origin main
+git add .
