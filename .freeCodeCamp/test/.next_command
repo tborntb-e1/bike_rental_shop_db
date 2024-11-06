@@ -123,3 +123,5 @@ echo '28 | Mountain'
 echo '28'' | Mountain'
 echo '28 | Mountain'
 ./bike-shop.sh
+BIKE_INFO_FORMATTED=$BIKE_INFO
+./bike-shop.sh
