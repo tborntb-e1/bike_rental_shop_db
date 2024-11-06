@@ -126,3 +126,4 @@ echo '28 | Mountain'
 BIKE_INFO_FORMATTED=$BIKE_INFO
 ./bike-shop.sh
 echo ' M e '
+echo "$(echo ' M e ')."
