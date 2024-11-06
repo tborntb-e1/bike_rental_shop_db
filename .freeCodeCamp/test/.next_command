@@ -206,3 +206,5 @@ echo "$(echo ' M e ' | sed 's/ $//g')."
 echo "$(echo ' M e ' | sed 's/ $//g')."
 echo "$(echo ' M e ' | sed 's/ *$//g')."
 echo "$(echo ' M e ' | sed 's/^ *| *$//g')."
+man sed
+__vsc_prompt_cmd_original
